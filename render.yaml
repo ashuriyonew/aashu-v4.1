@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: aashu-birthday-v3
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
+    autoDeploy: true
